@@ -1,0 +1,330 @@
+==== CAR LISTING RECORD ====
+Listing ID: CAR1748108260863
+Title: 2022 Honda CHR
+Make: Honda
+Model: CHR
+Year: 2022
+Body Type: SUV
+Condition: New
+Trim: 
+VIN: 
+Mileage: 18000
+Exterior Color: White
+Interior Color: 
+Transmission: Automatic
+Fuel Type: Plug-in Hybrid
+Doors: 4
+Drive Type: RWD
+Engine: 
+Price: 8850000.0
+Description: Good Condition
+Features: 
+Photos: car_images/carImg1_33141.jpg
+Seller ID: IT24102083
+Contact Name: Test123
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: Colombo
+Listing Date: 2025-05-24
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1748019506659
+Title: 2025 Toyota Allion
+Make: Toyota
+Model: Allion
+Year: 2025
+Body Type: Sedan
+Condition: Used - Excellent
+Trim: 
+VIN: 
+Mileage: 28000
+Exterior Color: Perl White
+Interior Color: 
+Transmission: Automatic
+Fuel Type: Hybrid
+Doors: 4
+Drive Type: AWD
+Engine: 
+Price: 9900000.0
+Description: New Condition
+Features: Air Conditioning, Power Windows, Power Locks, Cruise Control, Navigation System, Bluetooth, Leather Seats, Sunroof, Backup Camera, Parking Sensors, Premium Sound
+Photos: car_images/carImg1_27926.jpg
+Seller ID: CT25767399
+Contact Name: SellerTest1
+Contact Email: Userlo89@gmail.com
+Contact Phone: 
+Location: Colombo
+Listing Date: 2025-05-23
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1743960658731
+Title: 2017 Ford Mustang
+Make: Ford
+Model: Mustang
+Year: 2017
+Body Type: Crossover
+Condition: Used - Like New
+Trim: 
+VIN: 
+Mileage: 10000
+Exterior Color: Blue
+Interior Color: 
+Transmission: Automatic
+Fuel Type: Gasoline
+Doors: 
+Drive Type: RWD
+Engine: 
+Price: 99900.0
+Description: OOP
+Features: 
+Photos: car_images/carImg1_20345.jpg
+Seller ID: IT24102083
+Contact Name: Test123
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: New zeland
+Listing Date: 2025-04-06
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1743950565906
+Title: 2026 Toyota M4
+Make: Toyota
+Model: M4
+Year: 2026
+Body Type: SUV
+Condition: New
+Trim: 
+VIN: 
+Mileage: 45000
+Exterior Color: Black
+Interior Color: 
+Transmission: Automatic
+Fuel Type: Gasoline
+Doors: 
+Drive Type: 
+Engine: 
+Price: 150000.0
+Description: New one
+Features: Air Conditioning, Power Windows, Power Locks
+Photos: car_images/carImg1_20410.jpg
+Seller ID: IT24102083
+Contact Name: Test123
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: Japan
+Listing Date: 2025-04-06
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1743885917959
+Title: 2015 Audi Q4
+Make: Audi
+Model: Q4
+Year: 2016
+Body Type: Coupe
+Condition: New
+Trim: 
+VIN: 
+Mileage: 45000
+Exterior Color: Black
+Interior Color: 
+Transmission: Automatic
+Fuel Type: Gasoline
+Doors: 
+Drive Type: 
+Engine: 
+Price: 150000.0
+Description: ss
+Features: 
+Photos: car_images/carImg1_57141.jpg
+Seller ID: IT24102083
+Contact Name: Test123
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: Japan
+Listing Date: 2025-04-06
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1743877837371
+Title: 2023 BMW M3
+Make: BMW
+Model: M3
+Year: 2023
+Body Type: Sedan
+Condition: New
+Trim: 
+VIN: 
+Mileage: 25000
+Exterior Color: Black
+Interior Color: White
+Transmission: Automatic
+Fuel Type: Electric
+Doors: 2
+Drive Type: AWD
+Engine: 
+Price: 25000.0
+Description: Brand new
+Features: 
+Photos: car_images/1743878101104_02a3739f_joey-banks-YApiWyp0lqo-unsplash.jpg
+Seller ID: IT24102083
+Contact Name: Test1234
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: Sri lanka
+Listing Date: 2025-04-06
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1743880777670
+Title: 2025 Nissan GTR
+Make: Nissan
+Model: GTR
+Year: 2025
+Body Type: Sedan
+Condition: New
+Trim: 
+VIN: 
+Mileage: 12000
+Exterior Color: Blue
+Interior Color: 
+Transmission: Manual
+Fuel Type: Gasoline
+Doors: 2
+Drive Type: 
+Engine: 
+Price: 40000.0
+Description: Like New
+Features: Air Conditioning, Power Windows, Power Locks
+Photos: car_images/carImg1.jpg
+Seller ID: IT24102083
+Contact Name: Test123
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: Japan
+Listing Date: 2025-04-06
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1743956262029
+Title: 2025 Toyota Q3
+Make: Toyota
+Model: Q3
+Year: 2025
+Body Type: Sedan
+Condition: New
+Trim: 
+VIN: 
+Mileage: 45000
+Exterior Color: Blue
+Interior Color: 
+Transmission: Manual
+Fuel Type: Gasoline
+Doors: 
+Drive Type: 4WD
+Engine: 
+Price: 99900.0
+Description: 99
+Features: 
+Photos: car_images/carImg1_98089.jpg
+Seller ID: IT24102083
+Contact Name: Test123
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: Sri lanka
+Listing Date: 2025-04-06
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1743962918307
+Title: 2004 Volkswagen IDK
+Make: Volkswagen
+Model: IDK
+Year: 2004
+Body Type: Coupe
+Condition: Used - Poor
+Trim: 
+VIN: 
+Mileage: 9999999
+Exterior Color: Blue
+Interior Color: 
+Transmission: Manual
+Fuel Type: Gasoline
+Doors: 
+Drive Type: FWD
+Engine: 
+Price: 28000.0
+Description: used
+Features: 
+Photos: car_images/carImg1_79918.jpg
+Seller ID: IT24102083
+Contact Name: Test123
+Contact Email: test1@gmail.com
+Contact Phone: 
+Location: USA
+Listing Date: 2025-04-06
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1746458231095
+Title: 2018 Toyota Corolla
+Make: Toyota
+Model: Corolla
+Year: 2018
+Body Type: Van
+Condition: Used - Excellent
+Trim: 
+VIN: 
+Mileage: 45000
+Exterior Color: Black
+Interior Color: 
+Transmission: Manual
+Fuel Type: Electric
+Doors: 
+Drive Type: 
+Engine: 
+Price: 450000.0
+Description: 45400
+Features: Air Conditioning, Power Windows
+Photos: car_images/carImg1_98089.jpg
+Seller ID: CT25767399
+Contact Name: Test123
+Contact Email: Userlo89@gmail.com
+Contact Phone: 
+Location: Sri lanka
+Listing Date: 2025-05-05
+Status: Active
+-----------------------------
+==== CAR LISTING RECORD ====
+Listing ID: CAR1748020450730
+Title: 2018 Toyota Q3
+Make: Toyota
+Model: Q3
+Year: 2018
+Body Type: Sedan
+Condition: Used - Excellent
+Trim: 
+VIN: 
+Mileage: 33000
+Exterior Color: Blue
+Interior Color: 
+Transmission: Automatic
+Fuel Type: Plug-in Hybrid
+Doors: 4
+Drive Type: 
+Engine: 
+Price: 8799999.98
+Description: Good
+Features: 
+Photos: car_images/carImg1_09125.jpg
+Seller ID: CT25767399
+Contact Name: SellerTest1
+Contact Email: Userlo89@gmail.com
+Contact Phone: 
+Location: Gampaha
+Listing Date: 2025-05-23
+Status: Active
+-----------------------------

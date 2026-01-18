@@ -1,0 +1,86 @@
+Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-05-06 22:42:00
+Current User's Login: IT24102083
+User ID: IT24102083
+Registration Date: 2025-04-05 14:07:05 (UTC)
+Full Name: Test1234444
+Email: test1@gmail.com
+Phone: (012) 345-6789
+Username: Test123
+Password: Test12345
+Role: seller
+Active: false
+Contact Method: email
+Newsletter Subscription: Yes
+-----------------------------------------------------------
+User ID: IT24102083
+Registration Date: 2025-04-05 14:08:26 (UTC)
+Full Name: Test123
+Email: test1@gmail.com
+Phone: (012) 345-6789
+Username: Test123
+Password: Test123
+Role: seller
+Active: true
+Contact Method: email
+Newsletter Subscription: No
+-----------------------------------------------------------
+User ID: CT25767399
+Registration Date: 2025-04-05 14:23:23 (UTC)
+Full Name: Test123
+Email: Userlo89@gmail.com
+Phone: (123) 456-7890
+Username: Test123Test123
+Password: Test123
+Role: seller
+Active: true
+Contact Method: email
+Newsletter Subscription: No
+-----------------------------------------------------------
+User ID: IT24102083
+Registration Date: 2025-04-05 14:08:26 (UTC)
+Full Name: Test123
+Email: test1@gmail.com
+Phone: (012) 345-6789
+Username: Test1234
+Password: Test1234
+Role: buyer
+Active: true
+Contact Method: email
+Newsletter Subscription: No
+-----------------------------------------------------------
+User ID: CT25767399
+Registration Date: 2025-04-05 14:23:23 (UTC)
+Full Name: SellerTest1
+Email: Userlo89@gmail.com
+Phone: (123) 456-7890
+Username: SellerTest
+Password: SellerTest
+Role: seller
+Active: true
+Contact Method: email
+Newsletter Subscription: No
+-----------------------------------------------------------
+User ID: CT48867810
+Registration Date: 2025-04-06 19:40:01 (UTC)
+Full Name: Kavindu
+Email: admin@gmail.com
+Phone: 7894561230
+Username: admin
+Password: admin123
+Role: admin
+Active: true
+Contact Method: email
+Newsletter Subscription: No
+-----------------------------------------------------------
+User ID: CT25211117
+Registration Date: 2025-05-05 19:17:52 (UTC)
+Full Name: Janith Deshan
+Email: JanithDeshan@gmail.com
+Phone: (012) 345-6789
+Username: JanithDeshan
+Password: JanithDeshan
+Role: buyer
+Active: true
+Contact Method: email
+Newsletter Subscription: Yes
+-----------------------------------------------------------
