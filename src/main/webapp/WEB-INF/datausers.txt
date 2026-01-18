@@ -1,0 +1,33 @@
+==== USER RECORD ====
+User ID: USER1743944362123
+Username: admin
+Password: admin123
+Full Name: System Administrator
+Email: admin@cartrader.com
+Role: admin
+Active: true
+Created Date: 2025-04-06T18:29:22.123764600
+Last Login: Never
+-----------------------------
+==== USER RECORD ====
+User ID: USER1743944421233
+Username: kavindu
+Password: kavindu@gmail.com
+Full Name: kavindu
+Email: kavindu@gmail.com
+Role: admin
+Active: true
+Created Date: 2025-04-06T18:30:21.233439100
+Last Login: Never
+-----------------------------
+==== USER RECORD ====
+User ID: USER1743947155757
+Username: test1
+Password: test1test1
+Full Name: kavindutest1
+Email: test1@gmail.com
+Role: seller
+Active: true
+Created Date: 2025-04-06T19:15:55.757526500
+Last Login: Never
+-----------------------------

@@ -1,0 +1,15 @@
+InquiryId: INQ26633386
+UserId: CT25211117
+CarId: CAR1743877837371
+CarTitle: 2023 BMW M3
+SellerId: IT24102083
+Subject: Test Drive Request
+Message: Hi, I'm interested in your 2023 BMW M3 listed for LKR 25,000. Please contact me at your earliest convenience.
+Name: Janith Deshan
+Email: JanithDeshan@gmail.com
+Phone:
+InquiryDate: 2025-05-06 18:08:09 (UTC)
+Status: Replied
+Reply: OK I WILL DO IT
+ReplyDate: 2025-05-06 18:39:53 (UTC)
+---------------------------------------
